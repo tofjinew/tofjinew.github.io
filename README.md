@@ -1,8 +1,10 @@
 ## Welcome to Tiffany's user page!
 
+[Lab 1 checklist](https://github.com/tofjinew/tofjinew.github.io#checklist-for-cse-110-lab-1)
+
 I am a second year undergraduate student at UC San Diego studying computer science.
 
-I can write complicated programs like this one:
+- I can write complicated programs like this one:
 
 ```python
 print('Hello, world!')
@@ -30,7 +32,7 @@ my dog wishes he could drive like they do in the movies
 - [x] Quoting text
 - [x] Quoting code
 - [x] Links
-- [ ] Section links
+- [x] Section links
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
