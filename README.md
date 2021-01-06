@@ -10,7 +10,7 @@ I am a second year undergraduate student at UC San Diego studying computer scien
 print('Hello, world!')
 ```
 
-### Hot Wheels :car:
+### Hot Wheels
 
 > Wisdom is a circle. What you receive, you must give back.
 
@@ -20,9 +20,10 @@ My favorite movie series is the Hot Wheels Acceleracers animated series released
 
 [Here](https://www.youtube.com/watch?v=g5u7y1rBJGY) is a music video containing clips from the third movie.
 
+(my dog wishes he could drive like they do)
+
 ![](dog.jpg)
 
-my dog wishes he could drive like they do in the movies
 
 ### Checklist for CSE 110 Lab 1:
 
