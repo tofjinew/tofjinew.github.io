@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Tiffany's user page!
 
-You can use the [editor on GitHub](https://github.com/tofjinew/tofjinew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a second year undergraduate student at UC San Diego studying computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I can write complicated programs like this one:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+print('Hello, world!')
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Hot Wheels :car:
 
-### Jekyll Themes
+> Wisdom is a circle. What you receive, you must give back.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tofjinew/tofjinew.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+\- Dr. Tesla, _Hot Wheels: World Race_ (2003)
 
-### Support or Contact
+My favorite movie series is the Hot Wheels Acceleracers animated series released by Mattel in 2005. It features the events surrounding a band of street racers recruited by a rogue scientist to race against evil drones in another dimension containing unique race tracks created by aliens, perhaps to save humanity. There are four movies in total (with several short mini episodes in between), though there was a planned fifth one, unfortunately cancelled because "the \[marketing team\] felt \[the series\] had become more popular than the Hot Wheels brand itself". Despite that opinion, I have never met another person who has heard of this series, and so I am very dedicated to sharing it with as many people as I can (hence this section).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Here](https://www.youtube.com/watch?v=g5u7y1rBJGY) is a music video containing clips from the third movie.
+
+![](dog.jpg)
+
+my dog wishes he could drive like they do in the movies
+
+### Checklist for CSE 110 Lab 1:
+
+- [x] Pictures
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] Links
+- [ ] Section links
+- [x] Relative links
+- [x] Lists
+- [x] Task lists
+
+
